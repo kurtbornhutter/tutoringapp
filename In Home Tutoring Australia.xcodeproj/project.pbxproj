@@ -23,6 +23,22 @@
 		459AC4BC193FF23000842218 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 459AC498193FF23000842218 /* UIKit.framework */; };
 		459AC4C4193FF23000842218 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 459AC4C2193FF23000842218 /* InfoPlist.strings */; };
 		459AC4C6193FF23000842218 /* In_Home_Tutoring_AustraliaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 459AC4C5193FF23000842218 /* In_Home_Tutoring_AustraliaTests.m */; };
+		45C96162194454A800FEBFC4 /* IPHONE5.tif in Resources */ = {isa = PBXBuildFile; fileRef = 45C96161194454A800FEBFC4 /* IPHONE5.tif */; };
+		45C96164194457F600FEBFC4 /* IPHONE5tutor.tif in Resources */ = {isa = PBXBuildFile; fileRef = 45C96163194457F600FEBFC4 /* IPHONE5tutor.tif */; };
+		45C961661944587700FEBFC4 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C961651944587700FEBFC4 /* splash.png */; };
+		45C9616819445B0A00FEBFC4 /* splash copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616719445B0A00FEBFC4 /* splash copy.png */; };
+		45C9616A19445C9B00FEBFC4 /* screens.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616919445C9B00FEBFC4 /* screens.png */; };
+		45C9617619445F3B00FEBFC4 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616B19445F3B00FEBFC4 /* Icon-76@2x.png */; };
+		45C9617719445F3B00FEBFC4 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616C19445F3B00FEBFC4 /* Icon-72@2x.png */; };
+		45C9617819445F3B00FEBFC4 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616D19445F3B00FEBFC4 /* Icon-60@2x.png */; };
+		45C9617919445F3B00FEBFC4 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616E19445F3B00FEBFC4 /* Icon@2x.png */; };
+		45C9617A19445F3B00FEBFC4 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9616F19445F3B00FEBFC4 /* Icon-Small-50@2x.png */; };
+		45C9617B19445F3B00FEBFC4 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617019445F3B00FEBFC4 /* Icon-40@2x.png */; };
+		45C9617C19445F3B00FEBFC4 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617119445F3B00FEBFC4 /* Icon-76.png */; };
+		45C9617D19445F3B00FEBFC4 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617219445F3B00FEBFC4 /* Icon-72.png */; };
+		45C9617E19445F3B00FEBFC4 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617319445F3B00FEBFC4 /* Icon-60.png */; };
+		45C9617F19445F3B00FEBFC4 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617419445F3B00FEBFC4 /* Icon-Small@2x.png */; };
+		45C9618019445F3B00FEBFC4 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C9617519445F3B00FEBFC4 /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +74,22 @@
 		459AC4C1193FF23000842218 /* In Home Tutoring AustraliaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "In Home Tutoring AustraliaTests-Info.plist"; sourceTree = "<group>"; };
 		459AC4C3193FF23000842218 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		459AC4C5193FF23000842218 /* In_Home_Tutoring_AustraliaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = In_Home_Tutoring_AustraliaTests.m; sourceTree = "<group>"; };
+		45C96161194454A800FEBFC4 /* IPHONE5.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = IPHONE5.tif; sourceTree = "<group>"; };
+		45C96163194457F600FEBFC4 /* IPHONE5tutor.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = IPHONE5tutor.tif; sourceTree = "<group>"; };
+		45C961651944587700FEBFC4 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		45C9616719445B0A00FEBFC4 /* splash copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splash copy.png"; sourceTree = "<group>"; };
+		45C9616919445C9B00FEBFC4 /* screens.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screens.png; sourceTree = "<group>"; };
+		45C9616B19445F3B00FEBFC4 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		45C9616C19445F3B00FEBFC4 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
+		45C9616D19445F3B00FEBFC4 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		45C9616E19445F3B00FEBFC4 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		45C9616F19445F3B00FEBFC4 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
+		45C9617019445F3B00FEBFC4 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		45C9617119445F3B00FEBFC4 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		45C9617219445F3B00FEBFC4 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		45C9617319445F3B00FEBFC4 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
+		45C9617419445F3B00FEBFC4 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		45C9617519445F3B00FEBFC4 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,8 +149,24 @@
 		459AC49A193FF23000842218 /* In Home Tutoring Australia */ = {
 			isa = PBXGroup;
 			children = (
+				45C9616919445C9B00FEBFC4 /* screens.png */,
+				45C9616719445B0A00FEBFC4 /* splash copy.png */,
+				45C961651944587700FEBFC4 /* splash.png */,
+				45C96161194454A800FEBFC4 /* IPHONE5.tif */,
 				459AC4A3193FF23000842218 /* SquareItAppDelegate.h */,
+				45C9616B19445F3B00FEBFC4 /* Icon-76@2x.png */,
+				45C9616C19445F3B00FEBFC4 /* Icon-72@2x.png */,
+				45C9616D19445F3B00FEBFC4 /* Icon-60@2x.png */,
+				45C9616E19445F3B00FEBFC4 /* Icon@2x.png */,
+				45C9616F19445F3B00FEBFC4 /* Icon-Small-50@2x.png */,
+				45C9617019445F3B00FEBFC4 /* Icon-40@2x.png */,
+				45C9617119445F3B00FEBFC4 /* Icon-76.png */,
+				45C9617219445F3B00FEBFC4 /* Icon-72.png */,
+				45C9617319445F3B00FEBFC4 /* Icon-60.png */,
+				45C9617419445F3B00FEBFC4 /* Icon-Small@2x.png */,
+				45C9617519445F3B00FEBFC4 /* Icon.png */,
 				459AC4A4193FF23000842218 /* SquareItAppDelegate.m */,
+				45C96163194457F600FEBFC4 /* IPHONE5tutor.tif */,
 				459AC4A6193FF23000842218 /* Main_iPhone.storyboard */,
 				459AC4A9193FF23000842218 /* Main_iPad.storyboard */,
 				459AC4AC193FF23000842218 /* SquareItMasterViewController.h */,
@@ -237,10 +285,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C9616819445B0A00FEBFC4 /* splash copy.png in Resources */,
+				45C9617C19445F3B00FEBFC4 /* Icon-76.png in Resources */,
+				45C9617F19445F3B00FEBFC4 /* Icon-Small@2x.png in Resources */,
+				45C9617919445F3B00FEBFC4 /* Icon@2x.png in Resources */,
+				45C9617A19445F3B00FEBFC4 /* Icon-Small-50@2x.png in Resources */,
 				459AC4AB193FF23000842218 /* Main_iPad.storyboard in Resources */,
+				45C961661944587700FEBFC4 /* splash.png in Resources */,
 				459AC4B3193FF23000842218 /* Images.xcassets in Resources */,
 				459AC4A8193FF23000842218 /* Main_iPhone.storyboard in Resources */,
+				45C96164194457F600FEBFC4 /* IPHONE5tutor.tif in Resources */,
+				45C96162194454A800FEBFC4 /* IPHONE5.tif in Resources */,
+				45C9617B19445F3B00FEBFC4 /* Icon-40@2x.png in Resources */,
+				45C9618019445F3B00FEBFC4 /* Icon.png in Resources */,
+				45C9616A19445C9B00FEBFC4 /* screens.png in Resources */,
+				45C9617619445F3B00FEBFC4 /* Icon-76@2x.png in Resources */,
 				459AC49F193FF23000842218 /* InfoPlist.strings in Resources */,
+				45C9617E19445F3B00FEBFC4 /* Icon-60.png in Resources */,
+				45C9617D19445F3B00FEBFC4 /* Icon-72.png in Resources */,
+				45C9617719445F3B00FEBFC4 /* Icon-72@2x.png in Resources */,
+				45C9617819445F3B00FEBFC4 /* Icon-60@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +545,7 @@
 				459AC4CB193FF23000842218 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		459AC4CC193FF23000842218 /* Build configuration list for PBXNativeTarget "In Home Tutoring AustraliaTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +554,7 @@
 				459AC4CE193FF23000842218 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
