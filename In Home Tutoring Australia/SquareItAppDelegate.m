@@ -7,11 +7,16 @@
 //
 
 #import "SquareItAppDelegate.h"
+#import <Parse/Parse.h>
 
 @implementation SquareItAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    // Parse initialisation
+    [Parse setApplicationId:@"UyZGL1ZcUjBWRmhJL8Z4NHTA222YhRImrViVkn0e"
+                  clientKey:@"nO8tI1OX7XEKpW4M6rjFJByXLV5CiAz4Nlh5zAZP"];
+    [PFAnalytics trackAppOpenedWithLaunchOptions:launchOptions];
     // Override point for customization after application launch.
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
         UISplitViewController *splitViewController = (UISplitViewController *)self.window.rootViewController;
